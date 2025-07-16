@@ -1,0 +1,8 @@
+name: pdf_check
+description: Scans the current folder for PDF files and reports their names and sizes.
+entry_point: act
+keywords:
+  - check pdfs
+  - find pdf
+  - pdf list
+  - pdf check
